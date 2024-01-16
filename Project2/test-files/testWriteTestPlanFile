@@ -1,0 +1,15 @@
+! First
+# 1,Red
+Cool
+Fail
+- FAIL: fails
+# 2,Blue
+Awesome
+Pass
+- FAIL: f1
+- PASS: passsss
+! Second
+# 3,Green
+bad
+yes
+- PASS: yipee
